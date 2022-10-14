@@ -2,6 +2,14 @@
 
 A simple python script to parse the timetable of JIIT Noida from the excel file.
 
+## Requirements
+<!-- list the requirements -->
+
+- Python 3.6 or above
+- Pandas
+- openpyxl
+
+
 ## Usage
 
 <!-- run read_data.py and give the path to the excel file as the input -->
